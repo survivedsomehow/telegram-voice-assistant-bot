@@ -12,6 +12,6 @@ services:
     startCommand: python bot.py
     envVars:
       - key: TELEGRAM_BOT_TOKEN
-        value: 7583083761:AAEc4R2q7qVm0RQKzKRaTPAOXpT7saXcn3Y
+        value: 
       - key: GEMINI_API_KEY
-        value: AIzaSyBr1mI21WL76WSKn0zpVRmNCkSuKL9TJvw
+        value: 
