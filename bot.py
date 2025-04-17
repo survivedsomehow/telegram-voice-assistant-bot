@@ -9,8 +9,8 @@ from pydub import AudioSegment
 from gtts import gTTS
 
 # ✅ API Tokens
-TELEGRAM_BOT_TOKEN = "7583083761:AAEc4R2q7qVm0RQKzKRaTPAOXpT7saXcn3Y"
-GEMINI_API_KEY = "AIzaSyBr1mI21WL76WSKn0zpVRmNCkSuKL9TJvw"
+TELEGRAM_BOT_TOKEN = ""
+GEMINI_API_KEY = ""
 
 # ✅ Init
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
