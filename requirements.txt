@@ -3,4 +3,3 @@ pydub
 openai-whisper
 gTTS
 google-generativeai
-ffmpeg-python
