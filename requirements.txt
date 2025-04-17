@@ -1,0 +1,6 @@
+aiogram==3.4.1
+pydub
+openai-whisper
+gTTS
+google-generativeai
+ffmpeg-python
